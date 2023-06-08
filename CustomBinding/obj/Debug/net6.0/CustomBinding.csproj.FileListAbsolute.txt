@@ -1,0 +1,12 @@
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\bin\Debug\net6.0\CustomBinding.deps.json
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\bin\Debug\net6.0\CustomBinding.dll
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\bin\Debug\net6.0\CustomBinding.pdb
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.csproj.AssemblyReference.cache
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.AssemblyInfoInputs.cache
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.AssemblyInfo.cs
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.csproj.CoreCompileInputs.cache
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.dll
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\refint\CustomBinding.dll
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\CustomBinding.pdb
+C:\Users\alpolava\source\repos\TestFunctionCustomeBinding\CustomBinding\obj\Debug\net6.0\ref\CustomBinding.dll
